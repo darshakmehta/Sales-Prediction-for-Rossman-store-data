@@ -1,0 +1,2 @@
+# Sales-Prediction-for-Rossman-store-data
+The Rossman Store dataset from Kaggle provides us with the historical sales data for 1,115 Rossman stores. Based on the data that has been provided, the goal of our project and our major task is to predict the “Sales” column for the test set. This prediction will be performed using a set of relevant predictors. The project structure will follow a well-known CRISP-DM model.
